@@ -1,3 +1,4 @@
+// How to run server: npm run dev
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 import {
